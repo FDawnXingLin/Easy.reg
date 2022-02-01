@@ -10,7 +10,7 @@ Windows中一些设置项的修改需要通过修改注册表项来实现，而�
 
 ## 使用方法  
 
-你可以简单的下载*.reg文件，然后执行它来覆盖本机的注册表项，或者你也可以查看对应的README.md文件，根据其手动操作。除此之外，许多的注册表项需要相应的权限来进行修改，如何取得权限，请参见 **Guide/User** 目录下的README.md文件。  
+你可以简单的下载*.reg文件，然后执行它来覆盖本机的注册表项，或者你也可以查看对应的README.md文件，根据其手动操作。除此之外，许多的注册表项需要相应的权限来进行修改，如何取得权限，请参见 **Guide/User** 目录下的[README.md文件](https://github.com/FDawnXingLin/Easy.reg/tree/master/Guide/User)。  
 
 ## 贡献  
 
